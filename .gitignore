@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/demo-front/node_modules
+/demo-front/.pnp
+/demo-front/.pnp.js
+
+# testing
+/demo-front/coverage
+
+# production
+/demo-front/build
+
+# misc
+/demo-front/.DS_Store
+/demo-front/.env.local
+/demo-front/.env.development.local
+/demo-front/.env.test.local
+/demo-front/.env.production.local
+
+/demo-front/npm-debug.log*
+/demo-front/yarn-debug.log*
+/demo-front/yarn-error.log*
